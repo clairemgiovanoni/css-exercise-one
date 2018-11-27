@@ -29,6 +29,7 @@ h1 {
 h3 {
   font-size: 1.3em;
 }
+/*first div elements will be green */
 
 .element {
   background-color: green;
@@ -36,6 +37,7 @@ h3 {
   margin: 10px 0;
   width: 100%;
 }
+/* last 3 div elements will be blue */
 
 .color {
   background-color: blue;
