@@ -35,7 +35,8 @@ h3 {
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
 
-  .color {
-    background-color: blue;
-  }
+.color {
+  background-color: blue;
+}
